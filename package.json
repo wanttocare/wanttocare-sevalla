@@ -1,0 +1,6 @@
+{
+  "name": "wanttocare-blog",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {"build": "echo static site, nothing to build"}
+}
